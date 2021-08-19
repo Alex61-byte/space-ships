@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-image: url('https://cdn.wallpapersafari.com/6/29/qtCfLj.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+button{
+    float: right;
+}
